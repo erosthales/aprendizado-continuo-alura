@@ -19,4 +19,3 @@ Este repositório é voltado para fins educacionais e pode conter códigos em de
 ---
 
 > Sinta-se à vontade para explorar, sugerir melhorias ou deixar feedbacks!
-# aprendizado-continuo-alura
